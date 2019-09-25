@@ -1,0 +1,14 @@
+pip install jupyter
+pip install install Flask
+pip install jsonpickle
+pip install matplotlib
+pip install nltk
+pip install numpy
+pip install pandas
+pip install seaborn
+pip install scikit-learn
+pip install swifter
+pip install Unidecode
+pip install ipywidgets
+pip install lxml
+jupyter nbextension enable --py widgetsnbextension
